@@ -1,5 +1,0 @@
-# Ring Signatures
-
----
-
-## 
